@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670130595637",
+    "firebase_url": "https://covid-19-8a445.firebaseio.com",
+    "project_id": "covid-19-8a445",
+    "storage_bucket": "covid-19-8a445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670130595637:android:7852a2b321df11cdb4ce7c",
+        "android_client_info": {
+          "package_name": "br.com.piscioneri.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670130595637-c6i98pkootdj9cck272aml1ol7j9nm7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.piscioneri.covid19",
+            "certificate_hash": "0afd1408eb0a5b8c492a1170d14b28b89d6fb03a"
+          }
+        },
+        {
+          "client_id": "670130595637-dd5jaigb9k7km03amtpfmok9l5cmof2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGqIXMKuI2P-i8cDQ3DR7dM9Anwa-zhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670130595637-dd5jaigb9k7km03amtpfmok9l5cmof2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

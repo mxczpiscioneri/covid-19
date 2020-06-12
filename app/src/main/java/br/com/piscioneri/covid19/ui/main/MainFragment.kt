@@ -11,6 +11,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProviders
 import br.com.piscioneri.covid19.R
 import br.com.piscioneri.covid19.data.*
+import com.google.android.gms.ads.AdRequest
 import kotlinx.android.synthetic.main.main_fragment.*
 import retrofit2.Call
 import retrofit2.Callback
@@ -61,6 +62,9 @@ class MainFragment : Fragment() {
             dropdown.setText("Brasil", false)
             getReport(null)
         }
+
+        val adRequest = AdRequest.Builder().build()
+        adView.loadAd(adRequest)
     }
 
     private fun getReport(place: String?) {

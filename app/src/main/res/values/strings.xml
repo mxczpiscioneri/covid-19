@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Covid 19</string>
+    <string name="admob_app_id">ca-app-pub-0657233283655783~3655782866</string>
+    <string name="banner_ad_unit_id">ca-app-pub-0657233283655783/7376918915</string>
 </resources>
